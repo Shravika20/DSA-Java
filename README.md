@@ -20,7 +20,6 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Dynamic Programming
 
 ## Repository Structure
-```text
 DSA-Java
 │
 ├── Arrays
