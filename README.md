@@ -42,8 +42,12 @@ DSA-Java
 - Prepare for coding interviews and software engineering roles
 
 ## Programs Added
-# Arrays
+### Arrays
 - LargestElement
+- Smallest Element
+- Array Sum
+- Reverse Array
+- Second Largest Element
 
 ## Author
 K Shravika
