@@ -48,6 +48,12 @@ DSA-Java
 - Array Sum
 - Reverse Array
 - Second Largest Element
+### Strings
+- Reverse String
+- Palindrome String
+- Count Vowels
+- Count Words
+- Anagram Check
 
 ## Author
 K Shravika
