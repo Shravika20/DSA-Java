@@ -54,6 +54,11 @@ DSA-Java
 - Count Vowels
 - Count Words
 - Anagram Check
+### Searching
+- Linear Search
+- Binary Search
+- Count Occurrences of an Element
+- Find First Occurrence
 
 ## Author
 K Shravika
