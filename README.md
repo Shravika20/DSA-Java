@@ -59,6 +59,11 @@ DSA-Java
 - Binary Search
 - Count Occurrences of an Element
 - Find First Occurrence
+### Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Descending Order Sort
 
 ## Author
 K Shravika
