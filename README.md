@@ -64,6 +64,12 @@ DSA-Java
 - Selection Sort
 - Insertion Sort
 - Descending Order Sort
+### Recursion
+- Factorial Using Recursion
+- Fibonacci Using Recursion
+- Sum of Natural Numbers
+- Power of a Number
+- Reverse String Using Recursion
 
 ## Author
 K Shravika
