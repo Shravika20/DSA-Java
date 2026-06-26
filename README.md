@@ -70,6 +70,9 @@ DSA-Java
 - Sum of Natural Numbers
 - Power of a Number
 - Reverse String Using Recursion
+### Linked Lists
+- Singly Linked List 
+- Search an Element in a Linked List
 
 ## Author
 K Shravika
