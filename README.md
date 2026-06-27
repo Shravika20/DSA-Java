@@ -73,6 +73,11 @@ DSA-Java
 ### Linked Lists
 - Singly Linked List 
 - Search an Element in a Linked List
+- Insert at Beginning
+- Insert at End
+- Count Number of Nodes
+- Delete a Node
+- Reverse a Linked List
 
 ## Author
 K Shravika
