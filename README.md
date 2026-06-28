@@ -78,6 +78,12 @@ DSA-Java
 - Count Number of Nodes
 - Delete a Node
 - Reverse a Linked List
+### Stacks
+- Stack Implementation Using Array
+- Push and Pop Operations
+- Peek Operation
+- Check if Stack is Empty
+- Reverse a String Using Stack
 
 ## Author
 K Shravika
