@@ -84,6 +84,10 @@ DSA-Java
 - Peek Operation
 - Check if Stack is Empty
 - Reverse a String Using Stack
+### Queues
+- Queue Implementation Using Array
+- Enqueue and Dequeue Operations
+
 
 ## Author
 K Shravika
