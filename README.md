@@ -87,7 +87,9 @@ DSA-Java
 ### Queues
 - Queue Implementation Using Array
 - Enqueue and Dequeue Operations
-
+- Peek Front Element
+- Check if Queue is Empty
+- Queue Using Java Collection Framework
 
 ## Author
 K Shravika
