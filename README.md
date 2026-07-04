@@ -90,6 +90,13 @@ DSA-Java
 - Peek Front Element
 - Check if Queue is Empty
 - Queue Using Java Collection Framework
+### Trees
+- Binary Tree Creation
+- Inorder Traversal
+- Count Nodes in a Tree
+- Find Height of a Tree
+- Search Node in a Tree
+
 
 ## Author
 K Shravika
