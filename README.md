@@ -98,6 +98,11 @@ DSA-Java
 - Search Node in a Tree
 - Preorder Traversal
 - Postorder Traversal
+### Graphs
+- Graph Using Adjacency Matrix
+- Graph Using Adjacency List
+- Breadth First Search (BFS)
+
 
 
 
