@@ -96,6 +96,9 @@ DSA-Java
 - Count Nodes in a Tree
 - Find Height of a Tree
 - Search Node in a Tree
+- Preorder Traversal
+- Postorder Traversal
+
 
 
 ## Author
