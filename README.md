@@ -64,6 +64,8 @@ DSA-Java
 - Selection Sort
 - Insertion Sort
 - Descending Order Sort
+- Merge Sort
+- Quick Sort
 ### Recursion
 - Factorial Using Recursion
 - Fibonacci Using Recursion
@@ -102,6 +104,8 @@ DSA-Java
 - Graph Using Adjacency Matrix
 - Graph Using Adjacency List
 - Breadth First Search (BFS)
+- Depth First Search (DFS)
+- Check if an Edge Exists
 
 
 
