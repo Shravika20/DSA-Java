@@ -48,6 +48,7 @@ DSA-Java
 - Array Sum
 - Reverse Array
 - Second Largest Element
+- Count Even and Odd Elements in an Array
 ### Strings
 - Reverse String
 - Palindrome String
